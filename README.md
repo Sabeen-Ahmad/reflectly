@@ -190,12 +190,6 @@ The current JSON has 6 static entries. I'd add pagination support and a seed scr
 
 ---
 
-## Screen Recording
-
-A 30–60 second screen recording is included in the submission demonstrating the full flow: Home → Details → Session → Journal → History.
-
----
-
 ## Notes
 
 - Placeholder images are sourced from Unsplash (royalty-free).
