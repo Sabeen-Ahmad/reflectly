@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Forest Focus",
+    "tag": "Focus",
+    "duration": 180,
+    "description": "Step into a quiet forest at dawn. Let the stillness sharpen your attention.",
+    "imagePath": "assets/images/forest_calm.jpg",
+    "audioPath": "assets/audio/forest_focus.mp3",
+    "sensoryChips": ["Breeze", "Warm Light", "Mist", "Binaural"]
+  },
+  {
+    "id": "2",
+    "title": "Ocean Drift",
+    "tag": "Calm",
+    "duration": 300,
+    "description": "Slow waves. Salt air. A horizon that asks nothing of you.",
+    "imagePath": "assets/images/ocean_calm.jpg",
+    "audioPath": "assets/audio/ocean_calm.mp3",
+    "sensoryChips": ["Soft Rain", "Breeze", "Binaural"]
+  },
+  {
+    "id": "3",
+    "title": "Night Rain",
+    "tag": "Sleep",
+    "duration": 480,
+    "description": "Rain on glass. The world outside fades. Rest comes naturally.",
+    "imagePath": "assets/images/rain_window.jpg",
+    "audioPath": "assets/audio/rain.mp3",
+    "sensoryChips": ["Soft Rain", "Mist", "Warm Light"]
+  },
+  {
+    "id": "4",
+    "title": "Morning Reset",
+    "tag": "Reset",
+    "duration": 240,
+    "description": "A gentle breath before the day begins. Clear the slate.",
+    "imagePath": "assets/images/morning.jpg",
+    "audioPath": "assets/audio/morning.mp3",
+    "sensoryChips": ["Breeze", "Warm Light", "Binaural"]
+  },
+  {
+    "id": "5",
+    "title": "Deep Work",
+    "tag": "Focus",
+    "duration": 120,
+    "description": "No distraction. Pure flow. Enter the zone.",
+    "imagePath": "assets/images/deep_sleep.jpg",
+    "audioPath": "assets/audio/deep_sleep.mp3",
+    "sensoryChips": ["Binaural", "Mist"]
+  },
+  {
+    "id": "6",
+    "title": "Twilight Mist",
+    "tag": "Calm",
+    "duration": 360,
+    "description": "The hour between day and night. Soft edges. Quiet mind.",
+    "imagePath": "assets/images/night_forest.jpg",
+    "audioPath": "assets/audio/night.mp3",
+    "sensoryChips": ["Mist", "Breeze", "Soft Rain", "Binaural"]
+  }
+]
