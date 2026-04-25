@@ -3,6 +3,8 @@
 A Flutter mini-app built as part of the ArvyaX Flutter Developer assignment. The experience guides the user through **Explore Ambiences → Start Session → Control Player → Journaling → History** in a calm, minimal, and premium feel.
 
 ---
+**Video Link**
+https://youtube.com/shorts/P9TsUgg8ZeE?feature=share
 
 ## Getting Started
 
